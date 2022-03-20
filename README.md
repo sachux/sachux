@@ -35,7 +35,6 @@ Here are some ideas to get you started:
  <b><i>A technology enthusiast with special interest on building software products with amazing user experience.
     
 <br/>
-<hr />
 
 <!-- <div align="center">
   <a href="https://github.com/sachux">
