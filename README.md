@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there! I'm Sachin, welcome to my GitHub. 🌱
+### I'm Sachin, welcome to my GitHub. 🌱
 
 <hr />
 
