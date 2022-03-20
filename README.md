@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 <br/>
 <hr />
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/sachux">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloMarquesSantos&layout=compact&langs_count=7&theme=gradient"/>
-</div>
+</div> -->
 
 ## ⚡ Technologies I love and use
   
