@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br/>
 
 ### About Me 🚀
-💻 I’m a **Fullstack developer** with a bachelor's degree in Computer Science and Engineering. </br> </br>
+💻 I’m a **Senior Cloud Engineer** with a bachelor's degree in Computer Science and Engineering. </br> </br>
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
    
  <b><i>A technology enthusiast with special interest on building software products with amazing user experience.
